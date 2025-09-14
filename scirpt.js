@@ -43,7 +43,21 @@ document.addEventListener('DOMContentLoaded', () => {
   show: 'Superman',
   coverUrl: 'https://assets-prd.ignimgs.com/2025/05/13/superman-2025-button-1747149383684.jpg',
   downloadUrl: 'https://mega.nz/folder/u44m3bDA#EfLMlSPIdS32W6weKniBBQ'
-}
+    },
+    {
+   id: 'joseph-aaron',
+   name: 'Joseph/Aaron',
+   show: 'Creep',
+   coverUrl: 'https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABf3-hE11C9QN-3hgnab3z-JXv7B_USmJ_CKhZGyq7_pQbEwzqnYoYcskVhi7fSJbaIltnO2_t34rHMVVeRyTL8X_fI5n2Bs405BT.jpg?r=5a0',
+   downloadUrl: 'https://gofile.io/d/beep0s'
+      },
+      {
+   id: 'michael-scofield',
+   name: 'Michael Scofield',
+   show: 'Prison break',
+   coverUrl: 'https://c4.wallpaperflare.com/wallpaper/639/45/134/prison-break-sequel-wentworth-miller-2017-michael-scofield-wallpaper-preview.jpg',
+   downloadUrl: 'https://gofile.io/d/HFRoEN'
+     }
 
 
 
