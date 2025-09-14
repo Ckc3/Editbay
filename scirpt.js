@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
    id: 'joseph-aaron',
    name: 'Joseph/Aaron',
    show: 'Creep',
-   coverUrl: 'https://www5.lunapic.com/do-not-link-here-use-hosting-instead/175786897599998045?68768086213',
+   coverUrl: 'https://i.imgur.com/DVcEr8N.jpeg',
    downloadUrl: 'https://gofile.io/d/beep0s'
       },
       {
