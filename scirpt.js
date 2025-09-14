@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
    id: 'michael-scofield',
    name: 'Michael Scofield',
    show: 'Prison break',
-   coverUrl: 'https://c4.wallpaperflare.com/wallpaper/639/45/134/prison-break-sequel-wentworth-miller-2017-michael-scofield-wallpaper-preview.jpg',
+   coverUrl: 'https://i.pinimg.com/736x/ee/9e/ed/ee9eedf9ceb1ae9189ec3b3ca707f4d3.jpg',
    downloadUrl: 'https://gofile.io/d/HFRoEN'
      }
 
