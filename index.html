@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#0a0a0a" />
+    <title>Edit Bay</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <h1 class="brand">Edit Bay</h1>
+        <div class="search-wrap">
+          <label for="searchInput" class="sr-only">Search scene packs</label>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Search packs (name or show)"
+            autocomplete="off"
+            aria-label="Search scene packs"
+          />
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section id="packGrid" class="grid" aria-live="polite"></section>
+      <p id="emptyState" class="empty" hidden>No results found.</p>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <small>© discord.gg/XFmpVSNJH3</small>
+      </div>
+    </footer>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <h1 class="brand">Edit Bay</h1>
+    <div class="controls">
+      <div class="search-wrap">
+        <label for="searchInput" class="sr-only">Search scene packs</label>
+        <input
+          id="searchInput"
+          type="search"
+          placeholder="Search packs (name or show)"
+          autocomplete="off"
+          aria-label="Search scene packs"
+        />
+      </div>
+      <button id="requestOpenBtn" class="btn btn-primary" type="button">Request</button>
+    </div>
+  </div>
+</header>
+
+    <script src="scirpt.js" defer></script>
+  </body>
+</html>
