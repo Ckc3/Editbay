@@ -37,6 +37,15 @@ document.addEventListener('DOMContentLoaded', () => {
   coverUrl: 'https://yt3.googleusercontent.com/xpueZnr9nKfzKjp9i0V3ypWFOhNAkdaNoHFG9STBoamXD6WWZ5Igh4UNjvTuZk4qW8GCftA0hNs=s900-c-k-c0x00ffffff-no-rj',
   downloadUrl: 'https://gofile.io/d/LT3Whq'
      },
+     {
+  id: 'superman',
+  name: 'Superman',
+  show: 'Superman',
+  coverUrl: 'https://assets-prd.ignimgs.com/2025/05/13/superman-2025-button-1747149383684.jpg',
+  downloadUrl: 'https://mega.nz/folder/u44m3bDA#EfLMlSPIdS32W6weKniBBQ'
+}
+
+
 
   ];
 
@@ -396,5 +405,3 @@ function createModal() {
 
   return api;
 }
-
-
