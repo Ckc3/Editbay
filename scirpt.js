@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
    id: 'joseph-aaron',
    name: 'Joseph/Aaron',
    show: 'Creep',
-   coverUrl: 'https://occ-0-8407-114.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABf3-hE11C9QN-3hgnab3z-JXv7B_USmJ_CKhZGyq7_pQbEwzqnYoYcskVhi7fSJbaIltnO2_t34rHMVVeRyTL8X_fI5n2Bs405BT.jpg?r=5a0',
+   coverUrl: 'https://norealdanger.com/wp-content/uploads/2015/10/creep1.jpg',
    downloadUrl: 'https://gofile.io/d/beep0s'
       },
       {
